@@ -1,10 +1,9 @@
+Live Demo:- https://starlit-cheesecake-0256d8.netlify.app/
+
 "Weather App Project 🌦️ - API, HTML, CSS, JavaScript
 
-As the lead developer, I spearheaded the creation of a cutting-edge real-time weather application. Leveraging the power of HTML, CSS, and JavaScript, I ensured a flawless and responsive user experience.
+![Screenshot (285)](https://github.com/Vkpro55/Weather-App/assets/83464767/99861c66-4c97-4d77-bf1c-b7f9d7d0b451)
+![Screenshot (286)](https://github.com/Vkpro55/Weather-App/assets/83464767/3f1fe48c-9d6f-4650-94d9-288b8625b4f2)
 
-Key Achievements:
-✅ Orchestrated end-to-end development, seamlessly integrating HTML, CSS, and JavaScript.
-✅ Integrated a robust weather API to provide users with accurate and up-to-date weather information tailored to their geographic location.
-✅ Implemented asynchronous JavaScript techniques, allowing for smooth and seamless data retrieval without the need for page reloading.
 
 Through this project, I honed my skills in front-end technologies and API integration, delivering a user-centric solution that empowers users to access personalized weather updates with ease."
